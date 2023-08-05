@@ -11,8 +11,8 @@ Esta é uma aplicação simples em Python que realiza consulta de CEP utilizando
 
 ## Pré-requisitos
 
-- Python 3.x
-- Bibliotecas: tkinter, requests
+- Python 3.11
+- Bibliotecas: tkinter, customtkinter e requests
 
 ## Como utilizar
 
